@@ -1,5 +1,5 @@
 # Sites_Litera
 
--Ready site for sale
--Possibility to change the theme
--database: MySQL
+1. Ready site for sale
+2. Possibility to change the theme
+3. Database: MySQL
